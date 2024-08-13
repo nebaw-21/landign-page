@@ -12,7 +12,7 @@ function Section4() {
             Inform a definitive answer with DISCERN™™
           </h1>
           <h2 className="text-xl mb-8">
-            The only single-step, autospy-validated test for Alzheimer's disease.
+            The only single-step, autospy-validated test for Alzheimers disease.
           </h2>
           <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
             Take the DISCERN™ Test →
