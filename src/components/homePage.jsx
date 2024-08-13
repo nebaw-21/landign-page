@@ -1,10 +1,10 @@
-import NavBar from "./navBar";
-import BillBoard from "./billBoard";
-import Footer from "./footer";
-import Section1 from "./section1";
-import Section2 from "./Section2";
-import Section3 from "./Section3";
-import Section4 from "./Section4";
+import NavBar from "./navBar.jsx";
+import BillBoard from "./billBoard.jsx";
+import Footer from "./footer.jsx";
+import Section1 from "./section1.jsx";
+import Section2 from "./Section2.jsx";
+import Section3 from "./Section3.jsx";
+import Section4 from "./Section4.jsx";
 export default function HomePage(){
     return (
         <>
